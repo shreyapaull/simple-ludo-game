@@ -1,0 +1,25 @@
+body{
+    background-color: #393e46;
+}
+.first_container{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+h1{
+    font-family: 'Lobster',cursive;
+    font-size: 6rem;
+    color: #4ECCA3;
+    margin: 30px;
+}
+p{
+    font-size: 2rem;
+    color:#4ECCA3;
+    font-family:'Lobster',cursive;
+
+}
+.dice{
+display: inline-block;
+text-align: center;
+margin: 0 46px;
+}
